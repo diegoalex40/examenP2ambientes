@@ -2,8 +2,9 @@
 
 Repositorio del EXAMEN PARCIAL 2:
 En su primer PULL REQUEST Ingresar su nombre Completo a continuacion: 
-Diego Andrés Quiroga Mateus
 
+Denny Paul Viracucha Vichisela 
+Diego Andrés Quiroga Mateus
 SEBASTIÁN PAZMIÑO
 Anthony Flores
 
