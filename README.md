@@ -11,6 +11,7 @@ SEBASTIÁN PAZMIÑO
 Esteban Flores
 Anthony Flores
 Alex
+Johan Diego Hidrobo Pazmiño
 
 En su segundo PULL REQUEST PONER EN ESTE ARCHIVO LA PALABRA LISTO SEGUIDO DE SU APELLIDO.
 
